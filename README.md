@@ -1,2 +1,1 @@
-# TinDog
-tinder for day - made using Udemy course
+TinDog Starting Files
